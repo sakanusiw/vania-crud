@@ -21,3 +21,6 @@
 
 ### DELETE
 ![alt text](image-3.png)
+
+## Database
+![alt text](image-6.png)
