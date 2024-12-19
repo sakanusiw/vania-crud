@@ -1,15 +1,23 @@
+# Dokumentasi Vania Dart CRUD dan Auth
 
-# Vania Dart backend framework
+## Auth
 
-![Vania](https://vdart.dev/img/logo.png)
+### Register
+![alt text](image-4.png)
 
-[Documentation](https://vdart.dev)
+### Login
+![alt text](image-5.png)
 
-[Github](https://github.com/vania-dart/framework)
+## CRUD
 
-[pub.dev](https://pub.dev/packages/vania)
+### Create / POST
+![alt text](image.png)
 
-YouTube Video [Quick Start](https://www.youtube.com/watch?v=k8ol0F4bDKs)
+### Read / GET
+![alt text](image-1.png)
 
-[![Quick Start](http://img.youtube.com/vi/k8ol0F4bDKs/0.jpg)](https://www.youtube.com/watch?v=k8ol0F4bDKs "Quick Start")
-# vania-crud
+### Update / PUT
+![alt text](image-2.png)
+
+### DELETE
+![alt text](image-3.png)
